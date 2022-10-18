@@ -1,16 +1,44 @@
-# mylaundry
 
-A new Flutter project.
+My Laundry Apps
 
-## Getting Started
+Project untuk Laundry pribadi, digunakan untuk mendata dan meningkatkan pelayanan serta kedepannya dapat menjadi aplikasi market place untuk menunjang kegiatan laundry.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Android
+- Full Responsive
+- Midtrans Payment
+- Firebase Storage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+- [@kodenatan17](https://www.github.com/kodenatan17)
+
+
+## Installation
+
+Flutter Clean
+
+```bash
+  flutter clean
+```
+
+Flutter Get API
+
+```bash
+  flutter pub get
+```
+
+Setting your own Firebase
+
+```bash
+  firebase login
+  (youremail@email.com)
+```
+
+Run Flutter
+
+```bash
+  flutter run
+```
